@@ -1,4 +1,4 @@
-# Electronic Vehicle Registration Certificate App
+# Electronic Vehicle Registration Certificate (eVRC) App
 
 ## Description
 
