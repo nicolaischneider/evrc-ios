@@ -15,14 +15,10 @@ struct ContentView: View {
     @State private var vehicles: [EVRCData]
         
     init() {
-        //let data1 = try! EVRCDataMock.example3.toJSONForIssuing()
+        _vehicles = State(initialValue: UserDataAccess.loadEVRCData())
         
-        //print(data1)
-        //print("---")
-        //print(data2)
-        
-        //_vehicles = State(initialValue: UserDataAccess.loadEVRCData())
-        _vehicles = State(initialValue: [EVRCDataMock.example1, EVRCDataMock.example3])
+        // Uncomment to use mock data
+        //_vehicles = State(initialValue: [EVRCDataMock.example1, EVRCDataMock.example3])
     }
     
     var body: some View {
