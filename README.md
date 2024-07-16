@@ -10,7 +10,7 @@ This iOS application, developed as part of my master thesis, exemplifies the com
 - **Routine Police Checks**: Supports scenarios such as traffic stops where police need to verify an eVRC.
 - **Receiving eVRCs**: Enables users to accept eVRCs transferred from other users.
 
-The application was developed natively using SwiftUI and utilizes Apple's SF Symbols to enhance the user interface, operating primarily as an advanced prototype. This setup is designed to simulate real user interactions and application functionalities, allowing for a comprehensive demonstration and evaluation of the user experience and workflow. Additionally, a mock [reader application](https://github.com/nicolaischneider/evrc-verifier-ios) was also developed to showcase the verification process during police control scenarios.
+The application was developed natively using SwiftUI and utilizes Apple's SF Symbols to enhance the user interface, operating primarily as an advanced prototype. This setup is designed to simulate real user interactions and application functionalities. Additionally, a mock [reader application](https://github.com/nicolaischneider/evrc-verifier-ios) was also developed to showcase the verification process during police control scenarios.
 
 ## Setup
 
