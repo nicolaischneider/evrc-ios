@@ -21,23 +21,22 @@ The application was developed natively using SwiftUI and utilizes Apple's SF Sym
 
 ### Installation
 1. **Clone the Repository**
-
-2. **Open the Project**
-- Launch Xcode and select 'Open an existing project'.
-- Navigate to the cloned repository folder and open the `.xcodeproj` file.
-
-3. **Set up the iOS Device or Simulator**
-- Connect your iOS device to your Mac and select it in Xcode, or use an iOS simulator.
-
-4. **Run the Application**
-- Press the 'Run' button in Xcode to build and run the app on your chosen device.
+2. **Open the Project**: Launch Xcode, select 'Open an existing project', navigate to the cloned repository folder and open the `.xcodeproj` file.
+3. **Set up the iOS Device or Simulator**: Connect your iOS device to your Mac and select it in Xcode, or use an iOS simulator.
+4. **Run the Application**: Press the 'Run' button in Xcode to build and run the app on your chosen device.
 
 ### Test Documents
 
-Use the following test documents to issue a new eVRC into your app:
+Use the following test documents to issue a new eVRC into your app (you might have eto enlarge the qr codes):
 
 License Plate Number **B DR 123**
-<img src="qrCodes/bdr123.png" width="250" height="250" alt="B DR 123">
+
+<img src="qrCodes/bdr123.png" width="300" height="300" alt="B DR 123">
 
 License Plate Number **AB CD 123**
-<img src="qrCodes/abcd123.png" width="250" height="250" alt="AB CD 123">
+
+<img src="qrCodes/abcd123.png" width="300" height="300" alt="AB CD 123">
+
+## Contact
+- **Developer**: Nicolai Schneider
+- **Email**: nicolaischneider@mail.tu-berlin.de
