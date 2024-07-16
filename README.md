@@ -29,11 +29,15 @@ The application was developed natively using SwiftUI and utilizes Apple's SF Sym
 
 Use the following test documents to issue a new eVRC into your app (you might have eto enlarge the qr codes):
 
-License Plate Number **B DR 123**
+#### Test Document 1 
+
+License Plate Number: **B DR 123**
 
 <img src="qrCodes/bdr123.png" width="300" height="300" alt="B DR 123">
 
-License Plate Number **AB CD 123**
+#### Test Document 2
+
+License Plate Number: **AB CD 123**
 
 <img src="qrCodes/abcd123.png" width="300" height="300" alt="AB CD 123">
 
